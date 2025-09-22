@@ -1,0 +1,5 @@
+Archive: stable
+Component: main
+Origin: Custom Debian 13 Repo
+Label: Debian 13.1.0 amd64
+Architecture: amd64
