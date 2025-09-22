@@ -1,5 +1,6 @@
-Archive: stable
+Archive: custom
 Component: main
-Origin: Custom Debian 13 Repo
-Label: Debian 13.1.0 amd64
+Origin: CustomDebian13
+Label: CustomDebian13
 Architecture: amd64
+Date: Mon, 22 Sep 2025 10:15:02 +0000
